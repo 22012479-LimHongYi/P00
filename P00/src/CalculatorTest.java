@@ -55,6 +55,7 @@ public class CalculatorTest {
 		assertEquals(actual,expected);
 	}
 	
+	@Test
 	public final void testDivide() {
 		int a = 10;
 		int b = 2;
